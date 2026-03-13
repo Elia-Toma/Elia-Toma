@@ -12,15 +12,6 @@
           
   <br>
 
-
-### You are visitor Nº
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/Elia-Toma/count.svg"> 
-
-
-
-</p>
-
 ![](assets/Bottom_down.svg)
   
 </div>
